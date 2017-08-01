@@ -1,3 +1,9 @@
+![alt text](https://scottishbordersdesign.co.uk/wp-content/themes/ScottishBordersDesignV3/images/logo-white.png "Scottish Borders Design Logo")
+
+
+![alt text](https://client.scottishbordersdesign.co.uk/images/scripts/script_16.png "SHOUTcast Manager Screenshot")
+
+
 # What is this? #
 SHOUTcast manager was created 4 years ago to serve the purpose of hosting internet radios to as many as possible - Recently with all the issues of the legacy SHOUTcast binary not working it was updated to work with the latest SHOUTcast v2.x on all oses thats supported (Windows & Linux etc...) 
 
