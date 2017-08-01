@@ -1,7 +1,44 @@
 ![alt text](https://scottishbordersdesign.co.uk/wp-content/themes/ScottishBordersDesignV3/images/logo-white.png "Scottish Borders Design Logo")
 
+# Screenshots #
 
-![alt text](https://client.scottishbordersdesign.co.uk/images/scripts/script_16.png "SHOUTcast Manager Screenshot")
+### Main Dashboard ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/dashboard.jpg "SHOUTcast Manager Screenshot")
+
+### Login ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/login.jpg "SHOUTcast Manager Screenshot")
+
+### Login with 2 Factor Auth (Google Authenticator) ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/login_2fa.jpg "SHOUTcast Manager Screenshot")
+
+### Home Screen ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/main_screen.jpg "SHOUTcast Manager Screenshot")
+
+### AutoDJ Media Manager ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/media_manager.jpg "SHOUTcast Manager Screenshot")
+
+### Javascript Widgets ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/widgets.jpg "SHOUTcast Manager Screenshot")
+
+### Developers API to control SHOUTcast from Anywhere and Anything ###
+The Documentation is built into the script
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/api.jpg "SHOUTcast Manager Screenshot")
+
+### Admin Maintainence Screen ###
+![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/maintaince_screen.jpg "SHOUTcast Manager Screenshot")
+
+There are many other features including 
+ - cPanel FTP creation
+ - Login as a user
+ - SHOUTcast binary settings editor
+ - Full user profiles
+ - WHMCS plugin to create and control the radios from WHMCS
+ - SMARTY templating engine
+ - Smart API key system
+ - Multi Radio support for a single account
+ - API and User actions log
+ - Create and Edit Radios from the interface (WHMCS not required)
+ - Multi Media Upload (cPanel _not_ required)
 
 
 # What is this? #
