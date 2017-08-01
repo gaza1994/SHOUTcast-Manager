@@ -3,7 +3,7 @@ SHOUTcast manager was created 4 years ago to serve the purpose of hosting intern
 
 The software never sold very well, its been sitting "collecting dust" as some might say, so i've decided to just release it for free for many to try! 
 
-I can offer limited support via my website (you'll need to register an account to get a copy of it) 
+I can offer limited support via my website (you'll need to register an account to get a copy of it) OR add an issue on GitHub and i'll look at it asap!
 
 The copy you are seeing on here (GitHub.com) is for other developers to see the inner workings of such a script - You may required a license key to use this software which can be obtained here (its FREE dont worry - Just click the "Add to Cart" button): https://client.scottishbordersdesign.co.uk/scripts/15/Monthly+SHOUTcast+Manager.html
 
