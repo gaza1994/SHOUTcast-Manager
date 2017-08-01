@@ -1,3 +1,20 @@
+# What is this? #
+SHOUTcast manager was created 4 years ago to serve the purpose of hosting internet radios to as many as possible - Recently with all the issues of the legacy SHOUTcast binary not working it was updated to work with the latest SHOUTcast v2.x on all oses thats supported (Windows & Linux etc...) 
+
+The software never sold very well, its been sitting "collecting dust" as some might say, so i've decided to just release it for free for many to try! 
+
+I can offer limited support via my website (you'll need to register an account to get a copy of it) 
+
+The copy you are seeing on here (GitHub.com) is for other developers to see the inner workings of such a script - You may required a license key to use this software which can be obtained here (its FREE dont worry - Just click the "Add to Cart" button): https://client.scottishbordersdesign.co.uk/scripts/15/Monthly+SHOUTcast+Manager.html
+
+
+# Why SHOUTCast Manager? #
+Currently (correct me if im wrong) this is the only fully featured FREE PHP SHOUTcast management tool avilable that has support for PHP 5.x, 7 & 7.1 and that has been configured to work with SHOUTcast v2 (with SHOUTcast v1.x legacy support!)
+
+# Developers #
+Feel free to fork, tweak and submit pull requests :)
+
+
 # README #
 
 Download and put the files on your server of choice.
