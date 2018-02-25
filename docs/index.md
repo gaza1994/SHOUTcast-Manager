@@ -1,4 +1,4 @@
-![alt text](https://scottishbordersdesign.co.uk/wp-content/themes/ScottishBordersDesignV3/images/logo-white.png "Scottish Borders Design Logo")
+![alt text](https://camo.githubusercontent.com/ca46c566b77acff2bfb605b7faedc9b377d54ec4/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f77702d636f6e74656e742f7468656d65732f53636f7474697368426f726465727344657369676e56332f696d616765732f6c6f676f2d77686974652e706e67 "Scottish Borders Design Logo")
 
 # Documentation #
 I have moved the documentation to here: [SHOUTcast Manager Documentation Wiki](https://github.com/gaza1994/SHOUTcast-Manager/wiki)
@@ -9,26 +9,26 @@ I have moved the documentation to here: [SHOUTcast Manager Documentation Wiki](h
 ![alt text](https://camo.githubusercontent.com/6ac56c25b8635343d1750c220d1596345cb55309/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f64617368626f6172642e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Login ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/login.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/357112489f3b37517cda624f62b2202037138413/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f6c6f67696e2e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Login with 2 Factor Auth (Google Authenticator) ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/login_2fa.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/c17194f49859bf5515eee204ce34926980bfc282/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f6c6f67696e5f3266612e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Home Screen ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/main_screen.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/213d2aa847b89ad66568fb18394a9decdae1e0af/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f6d61696e5f73637265656e2e6a7067 "SHOUTcast Manager Screenshot")
 
 ### AutoDJ Media Manager ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/media_manager.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/5943bfe80341f8a067e66d5829b6394fe769f929/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f6d656469615f6d616e616765722e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Javascript Widgets ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/widgets.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/19c2be0eedd2e9e683dcbb03cca9223080d134f4/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f776964676574732e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Developers API to control SHOUTcast from Anywhere and Anything ###
 The Documentation is built into the script
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/api.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/18872383ffed2edfef3cd14035fac09ba98f00f6/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f6170692e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Admin Maintainence Screen ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/maintaince_screen.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/f542418e7c3c5e078e5f2409b49eb0d8194320f7/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f6d61696e7461696e63655f73637265656e2e6a7067 "SHOUTcast Manager Screenshot")
 
 There are many other features including 
  - cPanel FTP creation
