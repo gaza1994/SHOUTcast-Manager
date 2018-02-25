@@ -6,7 +6,7 @@ I have moved the documentation to here: [SHOUTcast Manager Documentation Wiki](h
 # Screenshots #
 
 ### Main Dashboard ###
-![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/dashboard.jpg "SHOUTcast Manager Screenshot")
+![alt text](https://camo.githubusercontent.com/6ac56c25b8635343d1750c220d1596345cb55309/68747470733a2f2f73636f7474697368626f726465727364657369676e2e636f2e756b2f6769746875622f53484f5554636173742d4d616e616765722f73637265656e73686f74732f64617368626f6172642e6a7067 "SHOUTcast Manager Screenshot")
 
 ### Login ###
 ![alt text](https://scottishbordersdesign.co.uk/github/SHOUTcast-Manager/screenshots/login.jpg "SHOUTcast Manager Screenshot")
