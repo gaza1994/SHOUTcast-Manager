@@ -1,4 +1,4 @@
-![alt text](https://scottishbordersdesign.co.uk/wp-content/themes/ScottishBordersDesignV3/images/logo-white.png "Scottish Borders Design Logo")
+# [DEPRECATED] NO LONGER MAINTAINED #
 
 # Documentation #
 I have moved the documentation to here: [SHOUTcast Manager Documentation Wiki](https://github.com/gaza1994/SHOUTcast-Manager/wiki)
